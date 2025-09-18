@@ -27,15 +27,25 @@ A simple Java console-based number guessing game where the computer randomly cho
 2.Compile the program:
 
 javac NumberGuessingGame.java
+
 3.Run the program:
 
 java NumberGuessingGame
+
 📷 Sample Output
+
 🎯 Welcome to the Number Guessing Game!
+
 Guess a number between 1 and 100:
+
 Enter your guess: 50
+
 📈 Too high, try again!
+
 Enter your guess: 25
+
 📉 Too low, try again!
+
 Enter your guess: 30
+
 🎉 Correct! You guessed the number in 3 attempts.
